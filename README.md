@@ -1,15 +1,14 @@
 ![YUTING's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUTING0907&show_icons=true&theme=tokyonight)
 
 ### TODO 
-1.Doris表权限管理
-  Doris源码修改
-2.数据同步模块
-  Flinkcdc实时同步mysqltodoris，包含表结构变更通知，表结构变更不停掉作业
-  Dolpinscheduler源码修改，增加后端同步表接口，以及dorisddl
-3.flinkjob监控
-4.数据质量
-5.数据血缘
-
+#### 1.Doris表权限管理
+  Doris源码修改\
+#### 2.数据同步模块
+  Flinkcdc实时同步mysqltodoris，包含表结构变更通知，表结构变更不停掉作业\
+  Dolpinscheduler源码修改，增加后端同步表接口，以及dorisddl\
+#### 3.flinkjob监控
+#### 4.数据质量
+#### 5.数据血缘
 
 
 <!--
