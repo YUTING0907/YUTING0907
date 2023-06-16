@@ -6,6 +6,7 @@
 #### 2.数据同步模块
   Flinkcdc实时同步mysqltodoris，包含表结构变更通知，表结构变更不停掉作业\
   Dolpinscheduler源码修改，增加后端同步表接口，以及dorisddl\
+  
 #### 3.flinkjob监控
 #### 4.用户行为分析
 #### 5.商品分类-机器学习算法
