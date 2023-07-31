@@ -1,15 +1,18 @@
 ![YUTING's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUTING0907&show_icons=true&theme=tokyonight)
 
 ### 2023TODO 
-#### 1.Doris表权限管理
-  Doris源码修改
+#### 1.Doris
+  Doris1.1.4 -> 1.2.6版本问题追踪 (50%）
 #### 2.数据同步模块
   Flinkcdc实时同步mysqltodoris，包含表结构变更通知，表结构变更不停掉作业\
   ✅Dolpinscheduler源码修改，增加后端同步表接口，以及dorisddl
-  
-#### 3.flinkjob监控
+#### 3.监控
+   flinkjob
+   flinkcdc表数据监控
+   敏感词
 #### 4.用户行为分析
 #### 5.商品分类-深度学习算法
+    20%  
 #### 6.数据质量
 #### 7.数据血缘
 
