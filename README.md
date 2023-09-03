@@ -1,8 +1,8 @@
 ![YUTING's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUTING0907&show_icons=true&theme=tokyonight)
 
 ### 2023TODO 
-#### 1.Doris
-  ✅Doris1.1.4 -> 1.2.6版本问题追踪 (50%）
+####✅ 1.Doris
+  Doris1.1.4 -> 1.2.6版本问题追踪 (50%）
   1.正则表达式函数会搞挂BE
   2.group by as alias参数
   3.not in的字查询中存在null，查询出来的结果会有问题
