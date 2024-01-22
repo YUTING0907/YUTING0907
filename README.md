@@ -27,12 +27,13 @@
 跑实验
 #### 5.AI深度学习算法
   * ✅商品分类(Bert) 
-  * 图片分类(ResNet50、EfficientNet-B2) 
+  * ✅图片分类(ResNet50、EfficientNet-B2) 
 #### 6.数据质量
   * 数据同步数据校验 NineData
   * ✅dolpin调度校验
 #### ✅7.数据血缘
-
+#### 8.数据安全扫描
+  * 基于dolpin二开插件 
 
 <!--
 **YUTING0907/YUTING0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
