@@ -5,6 +5,10 @@
 论文阅读
 跑实验
 idea验证
+#### 2.数据服务
+#### 3.gitlab提交验证
+#### 4.code review
+
 
 <!--
 **YUTING0907/YUTING0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
