@@ -5,9 +5,11 @@
 论文阅读
 跑实验
 idea验证
-#### 2.数据服务
-#### 3.gitlab提交验证
-#### 4.code review
+#### ✅2.数据服务
+#### ✅3.gitlab提交验证
+dolpinsheduler + gitlab sql提交审核
+#### ✅4.code review
+大模型 code 提交comment评论
 
 
 <!--
