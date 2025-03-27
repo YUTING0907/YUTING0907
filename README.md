@@ -10,6 +10,8 @@ Hi there 👋
 
 #### ✅3.MCP Server
 
+fancy tool：打新债推送
+
 
 <!--
 **YUTING0907/YUTING0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
