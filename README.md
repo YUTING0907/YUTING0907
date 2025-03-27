@@ -16,9 +16,9 @@ CCF论文已发
 dolpinsheduler + gitlab sql提交审核
 #### ✅4.code review
 大模型 code 提交comment评论
-#### 5.智能定价
+#### ✅5.智能定价
  数据对齐模型
-#### 6.时序预测
+#### ✅6.时序预测
  LSTM、XGboost、prophet、传统统计方法(差分..傅里叶变换..)
 
 <!--
