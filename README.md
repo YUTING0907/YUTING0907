@@ -1,0 +1,4 @@
+# 2025 TODO
+1.OCR
+2.RAG
+3.MCP Server
