@@ -10,7 +10,7 @@ Hi there 👋
 
 #### 3.MCP Server
 
-fancy tool：打新债推送
+✅fancy tool：打新债推送
 
 
 <!--
