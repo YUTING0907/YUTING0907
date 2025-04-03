@@ -4,11 +4,11 @@ Hi there 👋
 ![YUTING's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUTING0907&show_icons=true&theme=tokyonight)
 
 ### 2025TODO 
-#### ✅1.OCR
+#### 1.OCR
 
-#### ✅2.RAG
+#### 2.RAG
 
-#### ✅3.MCP Server
+#### 3.MCP Server
 
 fancy tool：打新债推送
 
