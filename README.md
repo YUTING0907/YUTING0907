@@ -5,12 +5,10 @@ Hi there 👋
 
 ### 2025TODO 
 #### 1.OCR
-
 #### 2.RAG
-
 #### 3.MCP Server
 
-✅fancy tool：打新债推送
+✅fancy tool：
 
 
 <!--
