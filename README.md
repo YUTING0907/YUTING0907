@@ -5,9 +5,12 @@ Hi there 👋
 
 ### 2025TODO 
 #### 1.OCR
+复杂背景预处理（目标识别）+paddleocr
 #### 2.RAG
 #### 3.MCP Server
-
+agent 审核
+#### 4.归因分析
+#### 5.BI平台搜索
 ✅fancy tool：
 
 
