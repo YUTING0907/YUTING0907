@@ -81,6 +81,8 @@ My personal blog and project showcase site.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUTING0907&layout=compact)
 
+![GitHub Space Shooter](gh-space-shooter.gif)
+
 ---
 
 ## 2026 TODO
